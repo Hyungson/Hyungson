@@ -45,9 +45,9 @@
 #### Deep Learning
 - D&A Conference : 3D Modeling Project
 - VisionAI : OCR Modeling - Text Recognition
-- 
+  
 #### Data Analyzing
-- TextDataAnalystic : Naver Blog&News , CNN crawling
+- [TextDataAnalystic](https://github.com/Hyungson/TextDataAnalyze) : Naver Blog&News , CNN crawling
 - D&A BasicSession : Data Visualization Competition
 - BigData Visualization : Criminal Data Visualization
   
@@ -57,8 +57,8 @@
 ---
 
 ### Competition
-- 새만금 데이터 공모전 본선 진출
-- 빅콘테스트 정형데이터분석분야 수상
+- 새만금 데이터 공모전 본선 진출 [Link](https://github.com/Hyungson/DataCompetition_SaeManGeum)
+- 빅콘테스트 정형데이터분석분야 수상 [Link](https://github.com/Hyungson/DataCompetition_bigcontest)
 
 ---
 
@@ -79,4 +79,4 @@
 
 ## 잡동사니
 - 2020 병영문학상 수필 부문 가작
-- Blog [LINK](https://blog.naver.com/gudqls1940)
+- Blog [Link](https://blog.naver.com/gudqls1940)
