@@ -34,7 +34,7 @@
 |TYPE|DATE|CONTENTS|
 |------|---|---|
 |Major|2019.03~|AI빅데이터융합경영학과|
-|Major|2023.03~|Software 융합전공|
+|Minor|2023.03~|Software 융합전공|
 |Study|2022.03~|학과 학회 D&A|
 
 ---
@@ -44,8 +44,8 @@
 ### Project
 #### Deep Learning
 - D&A Conference : 3D Modeling Project
-- VisionAI : OCR Modeling
-
+- VisionAI : OCR Modeling - Text Recognition
+- 
 #### Data Analyzing
 - TextDataAnalystic : Naver Blog&News , CNN crawling
 - D&A BasicSession : Data Visualization Competition
@@ -58,7 +58,7 @@
 
 ### Competition
 - 새만금 데이터 공모전 본선 진출
-- 빅콘테스트 정형데이터분석분야 진행 중
+- 빅콘테스트 정형데이터분석분야 수상
 
 ---
 
@@ -79,4 +79,4 @@
 
 ## 잡동사니
 - 2020 병영문학상 수필 부문 가작
-- Blog (https://blog.naver.com/gudqls1940)
+- Blog [LINK](https://blog.naver.com/gudqls1940)
