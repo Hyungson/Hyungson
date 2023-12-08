@@ -27,7 +27,7 @@
  <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=black">
  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=black">
  <br>
----
+
 
  ## Career
 
@@ -42,36 +42,65 @@
 
 ## Do
 ### Project
+
+<div align=center>
+ 
 #### Deep Learning
-- D&A Conference : 3D Modeling Project
-- VisionAI : OCR Modeling - Text Recognition
-  
+ 
+
+|MANAGEMENT|CONTENTS|
+|------|---|
+|D&A Conference(Academy)|3D Modeling Project|
+|VisionAI (Major)|OCR Modeling - Text Recognition|
+
+
 #### Data Analyzing
-- [TextDataAnalystic](https://github.com/Hyungson/TextDataAnalyze) : Naver Blog&News , CNN crawling
-- D&A BasicSession : Data Visualization Competition
-- BigData Visualization : Criminal Data Visualization
-  
+
+
+|MANAGEMENT|CONTENTS|
+|------|---|
+|[TextDataAnalystic (Major)](https://github.com/Hyungson/TextDataAnalyze) | Naver Blog&News , CNN crawling |
+| D&A BasicSession (Academy) | Data Visualization Competition |
+| BigData Visualization (Major) | Criminal Data Visualization |
+
+
 #### etc
-- Java rpg text game
+<div align=center> 
+
+| MANAGEMENT | CONTENTS |
+|------|---|
+| Java Programing (Major)| RPG text game|
 
 ---
+<div align=left> 
 
 ### Competition
-- 새만금 데이터 공모전 본선 진출 [Link](https://github.com/Hyungson/DataCompetition_SaeManGeum)
-- 빅콘테스트 정형데이터분석분야 수상 [Link](https://github.com/Hyungson/DataCompetition_bigcontest)
+<div align=center> 
+
+| MANAGEMENT | CONTENTS | SCORE | LINK |
+|------|---|---|-------|
+|새만금개발청|새만금 데이터 공모전 | 본선 진출 | [Link](https://github.com/Hyungson/DataCompetition_SaeManGeum) |
+| 과학기술정보통신부 등 | 빅콘테스트 정형데이터분석분야 | 수상 | [Link](https://github.com/Hyungson/DataCompetition_bigcontest) |
 
 ---
+<div align=left> 
 
 ### reviews
 
 ---
 
 ### Study
-- 2022 1학기 D&A basic session (Python)
-- 2022 2학기 D&A ML session (Machine Learning)
-- 2023 1학기 D&A DL session (Deep Learning)
-- 2023 2학기 D&A Conference session (Deep Learning Project)
+
+<div align=center> 
+
+| PERIOD | MANAGEMENT | CONTENTS |
+|------|---|---|
+| 2022 1학기 | D&A basic session | Python |
+| 2022 2학기 | D&A ML session | Machine Learning |
+| 2023 1학기 | D&A DL session | Deep Learning |
+| 2023 2학기 | D&A Conference session | Deep Learning Project |
 ---
+<div align=left> 
 
 ## Certificate
 - AdSP - 2023
