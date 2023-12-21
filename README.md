@@ -47,7 +47,7 @@
 
 |MANAGEMENT|CONTENTS|
 |------|---|
-|D&A Conference(Academy)|3D Modeling Project|
+|D&A Conference(Academy)|3D Modeling Project (정리중)|
 |VisionAI (Major)|[OCR Modeling - Text Recognition](https://github.com/Hyungson/VisionAI)|
 
 
@@ -66,7 +66,7 @@
 
 | MANAGEMENT | CONTENTS |
 |------|---|
-| Java Programing (Major)| RPG text game|
+| Java Programing (Major)| RPG text game (정리중)|
 
 ---
 <div align=left> 
