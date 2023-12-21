@@ -48,7 +48,7 @@
 |MANAGEMENT|CONTENTS|
 |------|---|
 |D&A Conference(Academy)|3D Modeling Project|
-|VisionAI (Major)|OCR Modeling - Text Recognition|
+|VisionAI (Major)|[OCR Modeling - Text Recognition](https://github.com/Hyungson/VisionAI)|
 
 
 #### Data Analyzing
@@ -56,7 +56,7 @@
 
 |MANAGEMENT|CONTENTS|
 |------|---|
-|[TextDataAnalystic (Major)](https://github.com/Hyungson/TextDataAnalyze) | Naver Blog&News , CNN crawling |
+|TextDataAnalystic (Major) | [Naver Blog&News , CNN crawling](https://github.com/Hyungson/TextDataAnalyze)|
 | D&A BasicSession (Academy) | Data Visualization Competition |
 | BigData Visualization (Major) | Criminal Data Visualization |
 
@@ -77,7 +77,7 @@
 | MANAGEMENT | CONTENTS | SCORE | LINK |
 |------|---|---|-------|
 |새만금개발청|새만금 데이터 공모전 | 본선 진출 | [Link](https://github.com/Hyungson/DataCompetition_SaeManGeum) |
-| 과학기술정보통신부 등 | 빅콘테스트 정형데이터분석분야 | 수상 | [Link](https://github.com/Hyungson/DataCompetition_bigcontest) |
+| 과학기술정보통신부 등 | 빅콘테스트 정형데이터분석분야 | 최우수상(2위) | [Link](https://github.com/Hyungson/DataCompetition_bigcontest) |
 
 ---
 <div align=left> 
