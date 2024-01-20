@@ -1,6 +1,15 @@
 # Hyungson github
 ![header](https://capsule-render.vercel.app/api?type=shark&color=151515&height=300&section=header&text=WELCOME%&fontSize=90&fontAlignY=38&textBig=9f9f9f&fontColor=d6ace6&animation=twinkling&desc=Hyungson%20GitHub%&descAlignY=51&descAlign=62)
 
+<div align=center><h1> Contact</h1></div>
+<p align="center">
+ </a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/gudqls3157@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>  
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/[응가도리's Blog](https://blog.naver.com/gudqls1940)-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
+
+<br/>
+
+
 <div align=center><h1> STACKS</h1></div>
 
 <div align=center> 
@@ -105,7 +114,7 @@
 
 ## 잡동사니
 - 2020 병영문학상 수필 부문 가작
-- Blog [Link](https://blog.naver.com/gudqls1940)
+- 임밥천국 수석 셰프
 
 ![Hyungson's github stats](https://github-readme-stats.vercel.app/api?username=Hyungson&show_icons=true)
 
