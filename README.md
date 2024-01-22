@@ -5,7 +5,9 @@
 <p align="center">
  </a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/gudqls3157@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>  
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/[응가도리's Blog](https://blog.naver.com/gudqls1940)-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/https://blog.naver.com/gudqls1940-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/https://velog.io/@hyungson/posts-20C997?&style=flat-square&logo=Vala&logoColor=white"></a>
+ 
 
 <br/>
 
@@ -41,7 +43,9 @@
 |------|---|---|
 |Major|2019.03~|AI빅데이터융합경영학과|
 |Minor|2023.03~|Software 융합전공|
-|Study|2022.03~|학과 학회 D&A|
+|Academy|2022.03~2023.12|학과 학회 DnA|
+|Academy|2024.01~|학과 학회 X:AI|
+|Study|2024.01~|인공지능 연합동아리 투빅스|
 
 ---
 <div align=left> 
@@ -56,7 +60,7 @@
 
 |MANAGEMENT|CONTENTS|
 |------|---|
-|D&A Conference(Academy)|3D Modeling Project (정리중)|
+|DnA Conference(Academy)|[3D Modeling Project](https://github.com/Hyungson/3D_Shoes_Customization)|
 |VisionAI (Major)|[OCR Modeling - Text Recognition](https://github.com/Hyungson/VisionAI)|
 
 
@@ -66,7 +70,7 @@
 |MANAGEMENT|CONTENTS|
 |------|---|
 |TextDataAnalystic (Major) | [Naver Blog&News , CNN crawling](https://github.com/Hyungson/TextDataAnalyze)|
-| D&A BasicSession (Academy) | Data Visualization Competition |
+| DnA BasicSession (Academy) | Data Visualization Competition |
 | BigData Visualization (Major) | Criminal Data Visualization |
 
 
@@ -91,9 +95,14 @@
 ---
 <div align=left> 
 
-### reviews
+### Paper Reviews
+
+<div align=center> 
+ 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&tag=PaperreView)](https://github.com/@hyungson/velog-readme-stats)
 
 ---
+<div align=left> 
 
 ### Study
 
@@ -105,6 +114,9 @@
 | 2022 2학기 | D&A ML session | Machine Learning |
 | 2023 1학기 | D&A DL session | Deep Learning |
 | 2023 2학기 | D&A Conference session | Deep Learning Project |
+| 2024 1학기 | X:AI Study| Deep Learning Paper Review, Building Architecture|
+| 2024 1학기 | Tobigs Normal Session | Data Science, ML/DL |
+| 2024 1학기 | Tobigs Study | Algorithm, Linear Algebra |
 ---
 <div align=left> 
 
