@@ -4,7 +4,7 @@
 <div align=center><h1> Contact</h1></div>
 <p align="center">
  </a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/gudqls3157@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>  
+  <a href="mailto:gudqls3157@gmail.com"><img src="https://img.shields.io/badge/gudqls3157@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=ffffff&link=gudqls3157@gmail.com"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/https://blog.naver.com/gudqls1940-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/https://velog.io/@hyungson/posts-20C997?&style=flat-square&logo=Vala&logoColor=white"></a>
  
@@ -98,8 +98,9 @@
 ### Paper Reviews
 
 <div align=center> 
- 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&tag=PaperreView)](https://github.com/Hyungson/velog-readme-stats)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyungson&tag=PaperreView)](https://velog.io/@hyungson)
+
 
 ---
 <div align=left> 
