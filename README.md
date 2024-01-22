@@ -60,7 +60,7 @@
 
 |MANAGEMENT|CONTENTS|
 |------|---|
-|DnA Conference(Academy)|[3D Modeling Project](https://github.com/Hyungson/3D_Shoes_Customization)|
+|DnA Conference(Academy)|[3D Shoes Customization](https://github.com/Hyungson/3D_Shoes_Customization)|
 |VisionAI (Major)|[OCR Modeling - Text Recognition](https://github.com/Hyungson/VisionAI)|
 
 
