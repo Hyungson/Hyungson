@@ -99,7 +99,7 @@
 
 <div align=center> 
  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&tag=PaperreView)](https://github.com/@hyungson/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&tag=PaperreView)](https://github.com/@hyungson/velog/posts)
 
 ---
 <div align=left> 
