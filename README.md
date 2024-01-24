@@ -49,7 +49,7 @@
 |Study|2024.01~|인공지능 연합동아리 투빅스 부원|
 
 ---
-<div align=left> 
+
 
 ## Do
 ### Project
@@ -83,7 +83,7 @@
 | Java Programing (Major)| RPG text game|
 
 ---
-<div align=left> 
+
 
 ### Competition
 <div align=center> 
@@ -93,9 +93,9 @@
 |새만금개발청|새만금 데이터 공모전 | 본선 진출 | [Link](https://github.com/Hyungson/DataCompetition_SaeManGeum) |
 | 과학기술정보통신부 등 | 빅콘테스트 정형데이터분석분야 | 최우수상(2위) | [Link](https://github.com/Hyungson/DataCompetition_bigcontest) |
 |Dacon, HD현대|HD현대 AI Challenge| - | - |
-
+|국방부|2020 병영문학상| 수필부문 가작| [Link](https://blog.naver.com/gudqls1940/222776338864)|
 ---
-<div align=left> 
+
 
 ### Paper Reviews
 
@@ -105,7 +105,7 @@
 
 
 ---
-<div align=left> 
+
 
 ### Study
 
@@ -121,15 +121,16 @@
 | 2024 1학기 | Tobigs Normal Session | Data Science, ML/DL |
 | 2024 1학기 | Tobigs Study | Algorithm, Linear Algebra |
 ---
-<div align=left> 
+
 
 ## Certificate
-- AdSP - 2023
+
+|Name|Date|
+|----|----|
+|AdSP |  2023 |
 ---
 
-## 잡동사니
-- 2020 병영문학상 수필 부문 가작
-- 임밥천국 수석 셰프
+ 
 
 ![Hyungson's github stats](https://github-readme-stats.vercel.app/api?username=Hyungson&show_icons=true)
 
