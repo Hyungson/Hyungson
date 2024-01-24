@@ -5,9 +5,10 @@
 <p align="center">
  </a>
   <a href="mailto:gudqls3157@gmail.com"><img src="https://img.shields.io/badge/gudqls3157@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=ffffff&link=gudqls3157@gmail.com"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/https://blog.naver.com/gudqls1940-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/https://velog.io/@hyungson/posts-20C997?&style=flat-square&logo=Vala&logoColor=white"></a>
+  <a href="https://blog.naver.com/gudqls1940"><img src="https://img.shields.io/badge/essay%20blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
+  <a href="https://velog.io/@hyungson"><img src="https://img.shields.io/badge/Tech%20velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
  
+
 
 <br/>
 
