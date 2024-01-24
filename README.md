@@ -92,6 +92,7 @@
 |------|---|---|-------|
 |새만금개발청|새만금 데이터 공모전 | 본선 진출 | [Link](https://github.com/Hyungson/DataCompetition_SaeManGeum) |
 | 과학기술정보통신부 등 | 빅콘테스트 정형데이터분석분야 | 최우수상(2위) | [Link](https://github.com/Hyungson/DataCompetition_bigcontest) |
+|Dacon, HD현대|HD현대 AI Challenge| - | - |
 
 ---
 <div align=left> 
