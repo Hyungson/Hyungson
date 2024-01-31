@@ -45,8 +45,8 @@
 |Major|2019.03~|AI빅데이터융합경영학과|
 |Minor|2023.03~|Software 융합전공|
 |Academy|2022.03~2023.12|학과 학회 DnA 학회원|
-|Academy|2024.01~|학과 학회 X:AI 운영진|
-|Study|2024.01~|인공지능 연합동아리 투빅스 부원|
+|Academy|2024.01~|학과 학회 [X:AI](https://cms.kookmin.ac.kr/kmu-xai/index.do) 운영진|
+|Study|2024.01~|인공지능 연합동아리 [Tobigs](http://www.datamarket.kr/xe/) 부원|
 
 ---
 
