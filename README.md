@@ -101,7 +101,7 @@
 
 <div align=center> 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyungson&tag=PaperreView)](https://velog.io/@hyungson)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyungson&tag=paper_review)](https://velog.io/@hyungson)
 
 
 ---
