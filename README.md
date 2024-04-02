@@ -5,10 +5,11 @@ Major in AI Big Data & Management, and Minor in Computer Science
 
 Intersted in AI Engineer
 
+<br/>
 
 ## Contact
 
- </a>
+
   <a href="mailto:gudqls3157@gmail.com"><img src="https://img.shields.io/badge/gudqls3157@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=ffffff&link=gudqls3157@gmail.com"/></a>
   <a href="https://blog.naver.com/gudqls1940"><img src="https://img.shields.io/badge/essay%20blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
   <a href="https://velog.io/@hyungson"><img src="https://img.shields.io/badge/Tech%20velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
@@ -27,9 +28,7 @@ Intersted in AI Engineer
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Gradio-FF9E0F?style=flat-square&logo=Gradio&logoColor=white"/> 
   
 
-  <img src="https://img.shields.io/badge/Langchain-006600?style=flat-square&logo=Langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white">
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Langchain-006600?style=flat-square&logo=Langchain&logoColor=white"> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white"> <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white">
   
 <br/>
 
