@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=151515&height=300&section=header&text=WELCOME%&fontSize=90&fontAlignY=38&textBig=9f9f9f&fontColor=d6ace6&animation=twinkling&desc=Hyungson%20GitHub%&descAlignY=51&descAlign=62)
 
 ## ABSTRACT
-Major in AI Big Data & Management, and Minor in Computer Science.
+Major in AI Big Data & Management, and Minor in Computer Science
+
 Intersted in AI Engineer
 
 
