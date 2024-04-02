@@ -33,5 +33,3 @@ Intersted in AI Engineer
 <br/>
 
 
-![Hyungson's github stats](https://github-readme-stats.vercel.app/api?username=Hyungson&show_icons=true)
-
